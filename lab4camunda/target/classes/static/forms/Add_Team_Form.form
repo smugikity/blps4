@@ -1,0 +1,43 @@
+{
+  "components": [
+    {
+      "label": "Name",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_11iw25e",
+        "columns": null
+      },
+      "id": "Field_0ghhgok",
+      "key": "teamName"
+    },
+    {
+      "label": "Stadium",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_13mbulj",
+        "columns": null
+      },
+      "id": "Field_13povgc",
+      "key": "teamStadium"
+    },
+    {
+      "label": "City",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1d24cht",
+        "columns": null
+      },
+      "id": "Field_0dymblw",
+      "key": "teamCity"
+    }
+  ],
+  "type": "default",
+  "id": "addTeamForm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.15.1"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 10
+}

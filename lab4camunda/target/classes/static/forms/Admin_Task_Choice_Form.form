@@ -1,0 +1,37 @@
+{
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Add match",
+          "value": "addMatch"
+        },
+        {
+          "label": "Add team",
+          "value": "addTeam"
+        },
+        {
+          "label": "Add score",
+          "value": "addScore"
+        }
+      ],
+      "label": "What you want to do",
+      "type": "select",
+      "layout": {
+        "row": "Row_1j8910v",
+        "columns": null
+      },
+      "id": "Field_1qk4m05",
+      "key": "adminChoice"
+    }
+  ],
+  "type": "default",
+  "id": "adminTaskChoiceForm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.15.1"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 10
+}

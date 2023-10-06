@@ -1,0 +1,3 @@
+com\football\camunda\ServletInitializer.class
+com\football\camunda\RESTConfig.class
+com\football\camunda\Application.class

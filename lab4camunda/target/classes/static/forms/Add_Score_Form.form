@@ -1,0 +1,43 @@
+{
+  "components": [
+    {
+      "label": "Match id",
+      "type": "number",
+      "layout": {
+        "row": "Row_04u85v8",
+        "columns": null
+      },
+      "id": "Field_0vr2mx7",
+      "key": "matchId"
+    },
+    {
+      "label": "Team 1 score",
+      "type": "number",
+      "layout": {
+        "row": "Row_00fxaek",
+        "columns": null
+      },
+      "id": "Field_0fmctwk",
+      "key": "team1Score"
+    },
+    {
+      "label": "Team 2 score",
+      "type": "number",
+      "layout": {
+        "row": "Row_1seyqlk",
+        "columns": null
+      },
+      "id": "Field_1u54ldi",
+      "key": "team2Score"
+    }
+  ],
+  "type": "default",
+  "id": "addScoreForm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.15.1"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 10
+}
